@@ -1,1 +1,1 @@
-# COMP-202-Assignment-3
+Code for Assignment 3 for COMP 202 - Foundations of Programming
